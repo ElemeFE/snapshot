@@ -1,0 +1,19 @@
+{
+  "name": "snapshot",
+  "version": "0.0.1",
+  "description": "一个小工具，可以为你页面中需要异步加载数据才渲染的dom片段存储到localStorage中，下次进入页面时可直接先显示localStorage中的快照，再切换为异步渲染出来的片段。",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ElemeFE/snapshot.git"
+  },
+  "author": "baiyaaaaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ElemeFE/snapshot/issues"
+  },
+  "homepage": "https://github.com/ElemeFE/snapshot#readme"
+}
